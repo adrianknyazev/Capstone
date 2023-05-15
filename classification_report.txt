@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+   AGMT_DATE       0.84      0.94      0.89       230
+    DOC_NAME       0.90      0.97      0.94       372
+    EFF_DATE       0.06      0.07      0.06        15
+       PARTY       0.83      0.88      0.85      1773
+
+   micro avg       0.83      0.90      0.86      2390
+   macro avg       0.66      0.72      0.69      2390
+weighted avg       0.83      0.90      0.86      2390
